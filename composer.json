@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gettext/json": "^1.0"
+    }
+}
